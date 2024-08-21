@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello Every my name is zhaopengyuan"
+title: "Hello Everyone my name is zhaopengyuan"
 author_profile: true
 redirect_from: 
   - /about/
