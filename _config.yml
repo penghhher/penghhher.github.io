@@ -25,9 +25,9 @@ author:
   name             : "Pengyuan Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  location         : "China Beijing"
+  employer         : "China University of Mining and Technology "
+  uri              : https://penghhher.github.io# URL
   email            : "none@example.org" 
 
   # Academic websites
